@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# 编辑器
+.vscode/
+.idea/
+
+# 课程材料（教师版权，不随仓库发布；需要时用 git add -f 强制添加）
+*.pdf
+pdf_content.txt
+pdf_text.txt
